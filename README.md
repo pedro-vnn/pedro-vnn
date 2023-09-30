@@ -14,4 +14,4 @@ Meu interesse é trabalhar como desenvolvedor de software back-end.
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-vnn&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
 </p>
 
-[![Linkedin](https://img.shields.io/badge/pedro%20lima%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedrolima-vn) 
+[![Linkedin](https://img.shields.io/badge/pedro%20lima%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolima-vn/) 
